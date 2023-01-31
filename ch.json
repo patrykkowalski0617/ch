@@ -7,5 +7,7 @@
   "l110": "textarea[id^=html_content_]",
   "l111": ".admin__control-textarea[name=custom_css]",
   "l99": "#container",
-  "l102": ".module__content"
+  "l102": ".module__content",
+  "l101": ".module__bar",
+  "l53": ".page-title"
 }
