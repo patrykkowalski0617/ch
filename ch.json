@@ -1,3 +1,8 @@
 {
-  "l44": ".data-row .action-menu"
+  "l51": ".data-row .action-menu",
+  "l66": "[data-action=grid-filter-apply]",
+  "l62": "[name=url]",
+  "l70": ".module__content",
+  "l94": ".btn_add-module",
+  "l110": "textarea[id^=html_content_]"
 }
