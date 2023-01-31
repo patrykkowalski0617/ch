@@ -4,5 +4,8 @@
   "l62": "[name=url]",
   "l70": ".module__content",
   "l94": ".btn_add-module",
-  "l110": "textarea[id^=html_content_]"
+  "l110": "textarea[id^=html_content_]",
+  "l111": ".admin__control-textarea[name=custom_css]",
+  "l99": "#container",
+  "l102": ".module__content"
 }
