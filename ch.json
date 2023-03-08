@@ -9,5 +9,6 @@
   "l99": "#container",
   "l102": ".module__content",
   "l101": ".module__bar",
-  "l53": ".page-title"
+  "l53": ".page-title",
+  "l104": "[name=use_teaser]"
 }
